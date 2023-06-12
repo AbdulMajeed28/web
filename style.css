@@ -72,7 +72,7 @@ nav ul li a:hover:after {
 }
 .content {
   position: absolute;
-  margin-top: 35%;
+  margin-top: 10%;
   left: 8%;
 }
 .content .title {
